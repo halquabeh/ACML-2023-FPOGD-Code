@@ -11,10 +11,9 @@ Before running this code, you need to have the following dependencies installed:
 
 1- Clone the repository:
 
-```bash
 git clone https://github.com/halquabeh/ACML-2023-FPOGD.git
 cd your-repo
-```bash
+
 2- Configuration
 
 You can modify the following parameters in the main.py file to customize the behavior of the code:
@@ -27,7 +26,7 @@ You can modify the following parameters in the main.py file to customize the beh
 
 Make sure to update the values accordingly.
 
-Citation
+## Citation
 
 If you use this code or algorithm in your research, please consider citing it as follows:
 
