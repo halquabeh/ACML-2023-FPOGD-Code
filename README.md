@@ -30,12 +30,10 @@ Make sure to update the values accordingly.
 
 If you use this code or algorithm in your research, please consider citing it as follows:
 
-sql
-
-@InProceedings{lastname23,
-      title = {Variance Reduced  Online Gradient Descent for Kernelized Pairwise Learning with Limited Memory},
-      author = {AlQuabeh, Hilal and Mukhoty, Bhaskar and Gu, Bin },
-      pages = {},
-      crossref = {Asian Conference on Machine Learning, 2023},
-    }
+    @InProceedings{lastname23,
+          title = {Variance Reduced  Online Gradient Descent for Kernelized Pairwise Learning with Limited Memory},
+          author = {AlQuabeh, Hilal and Mukhoty, Bhaskar and Gu, Bin },
+          pages = {},
+          crossref = {Asian Conference on Machine Learning, 2023},
+        }
 
