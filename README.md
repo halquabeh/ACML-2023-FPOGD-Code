@@ -14,7 +14,7 @@ Before running this code, you need to have the following dependencies installed:
 ```bash
 git clone https://github.com/halquabeh/ACML-2023-FPOGD.git
 cd your-repo
-
+```bash
 2- Configuration
 
 You can modify the following parameters in the main.py file to customize the behavior of the code:
