@@ -11,8 +11,8 @@ Before running this code, you need to have the following dependencies installed:
 
 1- Clone the repository:
 
-git clone https://github.com/halquabeh/ACML-2023-FPOGD.git
-cd your-repo
+    git clone https://github.com/halquabeh/ACML-2023-FPOGD.git
+    cd your-repo
 
 2- Configuration
 
