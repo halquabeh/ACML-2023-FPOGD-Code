@@ -1,4 +1,5 @@
 # Variance Reduced  Online Gradient Descent for Kernelized Pairwise Learning with Limited Memory - ACML23
+![method](https://github.com/halquabeh/ACML-2023-FPOGD-Code/assets/74788514/6d382537-2e9c-4285-9ea8-e9a3638d8e23)
 
 ## Prerequisites
 Before running this code, you need to have the following dependencies installed:
